@@ -11,7 +11,7 @@ This repo contains all codes for the ECommerce Freelance Marketplace Application
 ### Microservices
 * The `microservices` folder contains all the backend code for the application's services.
 * The services can be started either individually from the terminal or via docker compose.
-* [Microservices README file](https://github.com/hauxun/jobber/blob/main/microservices/README.md)
+* [Microservices README file](https://github.com/hauxun/jobber/blob/main/server/README.md)
 
 ### Volumes
 * The `volumes` folder contains files that are used to run services for local development.
